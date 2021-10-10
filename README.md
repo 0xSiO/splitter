@@ -19,7 +19,7 @@ ARGS:
 
 ## Contributing
 
-New issues and pull requests are welcome on GitHub at https://github.com/lucis-fluxum/splitter.
+New issues and pull requests are welcome on GitHub at https://github.com/0xSiO/splitter.
 
 ## License
 

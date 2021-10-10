@@ -2,7 +2,6 @@
 name = "splitter"
 version = "0.1.0"
 edition = "2018"
-authors = ["Luc Street <lucis-fluxum@users.noreply.github.com>"]
 
 [dependencies]
 ffmpeg4 = { git = "https://github.com/bacek/rust-ffmpeg" }
